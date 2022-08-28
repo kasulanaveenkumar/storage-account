@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "create-rg" {
-  name     = "test"
+  name     = "testing"
   location = "eastus"
 }
 
